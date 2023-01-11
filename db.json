@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "pruthvirajgaikwad17",
+      "password": "1234567890",
+      "email": "pg@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "ankitjoshi",
+      "password": "0987654321",
+      "email": "aj@gmail.com"
+    },
+    {
+      "username": "an",
+      "email": "pruthvirajgaikwad17@gmail.com",
+      "password": "1234567890",
+      "cpassword": "1234567890",
+      "id": 3
+    }
+  ]
+}
